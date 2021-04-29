@@ -1,4 +1,5 @@
 dolphin
 monkey
 hippo
-
+giraffe
+elephant
